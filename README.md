@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm a Frontend Developer</h1>
+<h1 align="center">Hi there 👋, I'm a Pavan Kumar</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Crafting+beautiful+frontend+experiences;Passionate+about+clean+code+%26+design" alt="Typing SVG" />
 </p>
